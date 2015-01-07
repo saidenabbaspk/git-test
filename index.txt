@@ -1,6 +1,6 @@
 here is git-test-1
 
-herhjehjrehj
+here is somthing different than other bracnh
  here  is fourth line 
  hewrhew
  hewrhew
