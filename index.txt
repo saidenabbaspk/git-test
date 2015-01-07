@@ -1,3 +1,3 @@
 here is git-test-1
 
-here is the third line of the code
+here is the new line
