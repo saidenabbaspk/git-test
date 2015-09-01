@@ -1,7 +1,0 @@
-here is git-test-1
-
-here is somthing different than other bracnh
- here  is fourth line 
- hewrhew
- hewrhew
- 
